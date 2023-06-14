@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ventu-ra
-- 👀 I’m interested in Rails
-- 🌱 I’m currently learning Ruby 
 
 
 <!---
