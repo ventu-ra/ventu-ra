@@ -7,6 +7,12 @@
 
 </div>
 
+<div align="center">
+
+[![KG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ventu-ra&bg_color=0a0c10&color=937CD5&line=6474B9&point=937CD5&area=true&hide_border=false)](https://github.com/ventu-ra)
+
+</div>
+
 <div align="left">
   <a href="https://github.com/ventu-ra">
     <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=ventu-ra&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Pedro Ventura github stats" />
@@ -14,8 +20,4 @@
   </a>
 </div>
 
-<div align="center">
 
-[![KG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ventu-ra&bg_color=0a0c10&color=937CD5&line=6474B9&point=937CD5&area=true&hide_border=false)](https://github.com/ventu-ra)
-
-</div>
