@@ -13,6 +13,3 @@
     <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ventu-ra&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
   </a>
 </div>
-
-![Ventura's GitHub stats](https://github-readme-stats.vercel.app/api?username=ventu-ra&show_icons=true&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventu-ra&hide_progress=true&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
