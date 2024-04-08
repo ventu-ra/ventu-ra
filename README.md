@@ -7,13 +7,12 @@
 
 </div>
 
-### Skills
-
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
-
-### GitHub Stats
+<div align="left">
+  <a href="https://github.com/ventu-ra">
+    <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=ventu-ra&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Pedro Ventura github stats" />
+    <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ventu-ra&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
+  </a>
+</div>
 
 ![Ventura's GitHub stats](https://github-readme-stats.vercel.app/api?username=ventu-ra&show_icons=true&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventu-ra&hide_progress=true&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
