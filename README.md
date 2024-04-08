@@ -13,3 +13,9 @@
     <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ventu-ra&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
   </a>
 </div>
+
+<div align="center">
+
+[![KG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ventu-ra&bg_color=0a0c10&color=937CD5&line=6474B9&point=937CD5&area=true&hide_border=false)](https://github.com/ventu-ra)
+
+</div>
