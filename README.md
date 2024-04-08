@@ -1,7 +1,4 @@
-# Pedro Ventura
-
-### About Me
-💻 Passionate about navigating the vast world of technology with enthusiasm and curiosity. ⚽ Occasionally, I swap code for football matches for a perfect balance. 📚 A voracious reader and a lover of good beats, especially in the captivating rhythms of house, afro house, and tech house. 🎓 A dedicated Computer Science student, always translating learning into practical solutions. ✨ I advocate for technological evolution and celebrate creativity at every step of the journey. 💻 Let's exchange ideas and create something extraordinary together! 🚀
+<a href="https://github.com/ventu-ra"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=PEDRO+VENTURA&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
 
 ### Skills
 
