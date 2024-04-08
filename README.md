@@ -1,5 +1,12 @@
 <a href="https://github.com/ventu-ra"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=PEDRO+VENTURA&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
 
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Ventura;I+am+from+Angola,+Viana;I+study+information+systems+at+UFU;Be+Welcome!🎉)](https://github.com/ventu-ra)
+
+</div>
+
 ### Skills
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
