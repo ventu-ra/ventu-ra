@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Ventura;I+am+from+Angola,+Viana;I+study+computer+science+at+UNESC;Be+Welcome!🎉)](https://github.com/ventu-ra)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Ventura;I+am+from+Brazil/SC;I+study+computer+science+at+UNESC;Be+Welcome!🎉)](https://github.com/ventu-ra)
 
 </div>
 
