@@ -18,5 +18,5 @@
     <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ventu-ra&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
 </div>
 
-https://roadmap.sh/card/wide/664279b5893a539abf9429c2?variant=light
+<img src="https://roadmap.sh/card/wide/664279b5893a539abf9429c2?variant=light"/>
 
