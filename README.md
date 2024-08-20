@@ -3,7 +3,7 @@
 I'm a Web Developer, Bachelor's degree in Computer Science from UNESC, with a deep passion for crafting innovative web solutions. My expertise lies in exploring and utilizing cutting-edge technologies like Astro.js, Qwik.js, and Ruby on Rails. I’m driven by the potential to blend technology and creativity in meaningful ways.
 
 - 🌱 Currently focused on mastering **Astro.js, Qwik.js**, and **Ruby on Rails**.
-- 🛠️ My projects will be available [here](p-ventura.com) soon.
+- 🛠️ My projects will be available [here](https://p-ventura.com/) soon.
 - 📫 You can reach me at [ppedroventura@outlook.com](mailto:ppedroventura@outlook.com).
 - 📚 Learn more about my journey and experiences [here](#).
 
