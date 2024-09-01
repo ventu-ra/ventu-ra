@@ -7,7 +7,7 @@ I'm a Web Developer, Bachelor's degree in Computer Science from UNESC, with a de
 - 🌱 Currently focused on mastering **Astro.js, Qwik.js**, and **Ruby on Rails**.
 - 🛠️ My projects will be available [here](https://p-ventura.com/) soon.
 - 📫 You can reach me at [ppedroventura@outlook.com](mailto:ppedroventura@outlook.com).
-- 📚 Learn more about my journey and experiences [here](#).
+- 📚 Learn more about my journey and experiences [here](https://www.linkedin.com/in/pedro-ventura-chimuco/).
 
 ### Skills
 
