@@ -1,3 +1,3 @@
 Hi there! 👋
 
-![Saitama's GitHub stats](https://github-readme-stats.vercel.app/api?ventu-ra=seuusuario&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventu-ra&hide_progress=true)
