@@ -8,4 +8,4 @@ Hi there! 👋
 
 ## 📈 Estatísticas GitHub
 
-![Ventura's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+![Ventura's GitHub stats](https://github-readme-stats.vercel.app/api?username=ventu-ra&show_icons=true&theme=radical)
